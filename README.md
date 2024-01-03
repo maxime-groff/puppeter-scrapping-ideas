@@ -1,3 +1,6 @@
+> [!WARNING]
+> Old project. Code is neither maintained nor relevant anymore.
+
 # Scrapping ideas with Puppeteer
 
 This project was bootstrapped in order to learn how Puppeteer works.
